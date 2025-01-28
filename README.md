@@ -29,7 +29,6 @@ Welcome to my GitHub! With over **21 years** of experience in **cloud-native sol
 ## 🌍 **Let’s Connect**  
 Feel free to explore my repositories and reach out if you're interested in collaborating or discussing cloud architecture, app modernization, AI/ML, or any exciting tech challenges!  
 
-- 📧 **Email:** sandeep.singh.itech@gmail.com  
 - 🔗 **LinkedIn:** [linkedin.com/in/sandeepsingh-it](https://linkedin.com/in/sandeepsingh-it)  
 
 ---
